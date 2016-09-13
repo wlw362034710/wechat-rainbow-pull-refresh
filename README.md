@@ -9,4 +9,3 @@ Based on the ionic-event.js which provide even more powful gestures than hammer.
 Thanks..
 
 ![image](https://github.com/wlw362034710/wechat-rainbow-pull-refresh/blob/master/screenShots/Screenshot_1.png)
-![image](https://github.com/wlw362034710/wechat-rainbow-pull-refresh/blob/master/screenShots/Screenshot_2.png)
